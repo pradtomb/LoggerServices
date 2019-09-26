@@ -9,9 +9,9 @@ import org.springframework.boot.test.autoconfigure.orm.jpa.TestEntityManager;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.afpva.botframework.logging.dao.AgentConversationLogRepository;
-import com.afpva.botframework.logging.model.AgentConversationLog;
-import com.afpva.botframework.logging.service.AgentConversationService;
+import com.vsofts.botframework.logging.dao.AgentConversationLogRepository;
+import com.vsofts.botframework.logging.model.AgentConversationLog;
+import com.vsofts.botframework.logging.service.AgentConversationService;
 
 
 @RunWith(SpringRunner.class)

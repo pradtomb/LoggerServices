@@ -6,8 +6,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.afpva.botframework.logging.dto.BotConversationLogDTO;
-import com.afpva.botframework.logging.service.BotConversationServices;
+import com.vsofts.botframework.logging.dto.BotConversationLogDTO;
+import com.vsofts.botframework.logging.service.BotConversationServices;
 
 /*import com.springjpa.dto.CustomerDTO;
 import com.springjpa.service.CustomerService;*/

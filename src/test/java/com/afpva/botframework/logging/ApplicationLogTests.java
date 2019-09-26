@@ -8,9 +8,9 @@ import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import com.afpva.botframework.logging.dao.ApplicationLogRepository;
-import com.afpva.botframework.logging.model.ApplciationLog;
-import com.afpva.botframework.logging.service.ApplicationLogServices;
+import com.vsofts.botframework.logging.dao.ApplicationLogRepository;
+import com.vsofts.botframework.logging.model.ApplciationLog;
+import com.vsofts.botframework.logging.service.ApplicationLogServices;
 
 
 

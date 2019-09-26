@@ -1,0 +1,6 @@
+---
+applications:
+- name: vsofts-virtual-assistance
+  memory: 256M
+  host: vsofts-virtual-assistance
+  domain: eu-gb.mybluemix.net
